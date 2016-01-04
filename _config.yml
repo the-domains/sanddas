@@ -1,0 +1,28 @@
+name: sanddas
+favicon: null
+layout_spectrum: 0.6712659290060401
+typography_spectrum: 0.20161314983852208
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.00791771779768169
+  lightness: 0.48697264469228685
+  saturation: 0.3866281609516591
+  rhythmicContrast: 0.9745628945529461
+purpose: []
